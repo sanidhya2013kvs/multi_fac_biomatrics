@@ -6,8 +6,10 @@ channels:
      - scipy
      - opencv
      - face_recognition
-     
-     
+     - streamlit==1.17
+     - streamlit_webrtc
+     - av
+     - pandas
     
 
 
