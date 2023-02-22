@@ -7,17 +7,7 @@ channels:
      - opencv
      - face_recognition
      
-     - opencv-contrib-python
-     - opencv-python
-     - opencv-python-headless
-    
-     - pandas
-     - pandas-datareader
-     - pandas-gbq
-     - pandas-profiling
-     - streamlit==1.17
-     - streamlit_webrtc
-     - av
+     
     
 
 
